@@ -9,8 +9,7 @@ Este proyecto integra lógica matemática, manipulación de archivos y diseño d
 ![GUI](https://img.shields.io/badge/Interfaz-Tkinter-orange)
 
 ## 📸 Captura de Pantalla
-*(Sugerencia: Ejecuta el programa, toma una captura y pégala aquí para mostrar la interfaz)*
-![Interfaz de Usuario](ruta_a_tu_imagen.png)
+![Interfaz de Usuario](facturacion.png)
 
 ## 📋 Características Principales
 
